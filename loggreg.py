@@ -1,5 +1,6 @@
 import numpy as np
 
+
 class LogReg:
     def __init__(self, learning_rate=0.01,n_iters = 1000):
         self.n_iters = n_iters
